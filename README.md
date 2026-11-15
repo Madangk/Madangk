@@ -35,3 +35,7 @@ Salesforce · HubSpot · Gong · Outreach · Apollo · LinkedIn Sales Navigator 
 ### Open to
 
 Senior / Enterprise AE and player-coach sales leadership roles in data infrastructure, cloud, SaaS and cybersecurity. Bengaluru or remote.
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-madankoushik-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madankoushik/)
