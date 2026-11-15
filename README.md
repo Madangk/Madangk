@@ -22,6 +22,7 @@ I'm not an engineer, but I build AI into my own sales process. This GitHub is wh
 | [**ai-outbound-workflow**](https://github.com/Madangk/ai-outbound-workflow) | Signal-based outbound: HubSpot trigger → Clay enrichment → Claude personalisation → Slack review |
 | [**account-research-agent**](https://github.com/Madangk/account-research-agent) | Claude-powered one-page account briefs with buying signals and MEDDPICC discovery questions |
 | [**meddpicc-deal-kit**](https://github.com/Madangk/meddpicc-deal-kit) | MEDDPICC scorecard, question bank, call-review prompt and mutual action plan |
+| [**cloud-roi-calculator**](https://github.com/Madangk/cloud-roi-calculator) | Live web calculator: 3-year ROI of a data platform migration, plus build vs buy ([try it](https://madangk.github.io/cloud-roi-calculator/)) |
 | [**enterprise-sales-playbook**](https://github.com/Madangk/enterprise-sales-playbook) | Full-cycle enterprise sales playbook with talk tracks, templates and a coaching kit |
 
 ### How I sell
