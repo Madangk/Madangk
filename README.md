@@ -38,4 +38,4 @@ Senior / Enterprise AE and player-coach sales leadership roles in data infrastru
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-madankoushik-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madankoushik/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-madangk.github.io-E8436A?logo=googlechrome&logoColor=white)](https://madangk.github.io/madankoushikportfolio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-madankoushik-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madankoushik/)
